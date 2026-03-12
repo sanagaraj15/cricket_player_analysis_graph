@@ -117,10 +117,8 @@ Statistical and comparative charts
 Sports performance analytics
 Heatmap-based match performance visualization
 
-                                                           Author 
+                                                           
 
-                                                        Nagaraj S A
+                                                                             👨‍💻 Author
 
-👨‍💻 Author
-
-Nagaraj S A
+                                                                             Nagaraj S A
